@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mine_life_creative.aternos.me",
+    "ip": "mine_life_creative.aternos.me:28797",
     "port": 28797,
     "version": "",
     "try-creative": false
